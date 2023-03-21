@@ -152,7 +152,7 @@ void loop() {
 
   
 
-
+/*
   
   ThingSpeak.writeField(myChannelNumber, 1, temperature_bmp, myWriteAPIKey);
   ThingSpeak.writeField(myChannelNumber, 2, pressure, myWriteAPIKey);
@@ -161,7 +161,7 @@ void loop() {
   ThingSpeak.writeField(myChannelNumber, 5, air_quality, myWriteAPIKey);
   
 
-
+*/
 
   Serial.println();
   delay(1000);
