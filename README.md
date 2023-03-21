@@ -15,6 +15,6 @@ and we will use Thingspeak colude to upload the data on colude, and we also use 
 -     5V                       5V/3.5V                   3.5V                  5V                5V/3.5V   
 -     SCL(D1)                    SCL                      SCL                   -                   -
 -     SDA(D2)                    SDA                      SDA                   -                   -
--     DHT11                       -                        -                    -                D5(GPIO2)
+-     DHT11                       -                        -                    -                D4(GPIO2)
 -     MQ135                       -                        -                    A0                   -
                                                                
