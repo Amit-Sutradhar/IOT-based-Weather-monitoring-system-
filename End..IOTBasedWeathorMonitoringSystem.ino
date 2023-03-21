@@ -9,7 +9,7 @@
 #include <WiFiClient.h>
 #include <ThingSpeak.h>
 
-#define DHTPIN 2 /* dht11 ,,d5----mq,vp--AMIT SUTRADHAR--scl sda 22 21 */
+#define DHTPIN 2 /* dht11-D4------AMIT SUTRADHAR--{SCL SDA D1,D2 (BMP180/OLED)} ESP8266-----MQ135 - A0*/
 #define DHTTYPE DHT11
 
 #define MQ_PIN A0
